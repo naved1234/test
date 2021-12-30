@@ -4,3 +4,6 @@ def hello_people(x):
 
 def Hello(x):
   return x
+
+def bold(x):
+  return x*2
